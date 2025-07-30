@@ -86,6 +86,3 @@ The **Voting Classifier** model was deployed using **Gradio** to build an intera
 > Users can input 15 key tumor characteristics and receive predictions in real time.
 
 ---
-
-## 📁 Project Structure
-
